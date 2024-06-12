@@ -14,7 +14,6 @@ I’m looking to collaborate on new pet projects.
 
 ## Contacts
 
-
 [![Map](https://img.shields.io/badge/-Санкт--Петербург-c4c3d0?style=for-the-badge&logo=yandex)](https://yandex.ru/maps/geo/sankt_peterburg/53152804/?ll=30.317044%2C59.941087&z=12.4)
 
 [![HeadHunter](https://img.shields.io/badge/HH-HeadHunter-cd5c5c?style=for-the-badge&logo=hh)](https://spb.hh.ru/resume/4c5a4547ff0d141a440039ed1f796f6157664d)
