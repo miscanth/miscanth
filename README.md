@@ -1,6 +1,3 @@
-![Header](https://github.com/miscanth/miscanth/blob/main/assets/header.gif)
-
-
 ## About me
 Hi! I'm Julia Ermachkova, a I'm junior Python-developer from Saint-Petersburg. That's my repository, you're welcome! 
 
@@ -32,3 +29,7 @@ I’m looking to collaborate on new pet projects.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscanth)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miscanth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Header](https://github.com/miscanth/miscanth/blob/main/assets/header.gif)
